@@ -1,0 +1,12 @@
+{
+  "name": "jizhang-render-simple",
+  "version": "1.0.0",
+  "description": "个人记账本 PWA - Render 无依赖扁平版",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
